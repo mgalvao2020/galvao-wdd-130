@@ -1,4 +1,4 @@
-# galvao-wdd-130
-This is my final project site for WDD130 @ BYUI
-Manoel
-This is a test change
+# WDD 130 Final Project
+Owner: Manoel Galvao
+
+Semester: Winter 202
