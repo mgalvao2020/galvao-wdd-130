@@ -3,7 +3,7 @@
     --spacing: 15px;
     --font-size: 1.15rem;
     /* Normal Colors */
-    --background-color: white;
+    --background-color: rgb(255, 255, 255);
     --alt-background-color: gainsboro;
     --font-color: black;
     --alt-font-color: darkslategray;
@@ -39,6 +39,16 @@ header {
     border-bottom: 1px solid var(--border-color);
     color: var(--alt-font-color);
     background-color: var(--alt-background-color);
+}
+
+header logo {
+    height: 150px;
+    width: auto;
+}
+
+body myresume {
+    height: 250px;
+    width: auto;
 }
 
 header a {
